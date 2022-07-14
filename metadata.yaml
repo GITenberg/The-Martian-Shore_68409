@@ -1,0 +1,42 @@
+_repo: The-Martian-Shore_68409
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Willer
+    - Alexander, Ed
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Fontenay, Charles L.
+    alias: Fontenay, Charles Louis
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '9500'
+    url: http://www.gutenberg.org/2009/agents/9500
+    wikipedia: https://en.wikipedia.org/wiki/Charles_L._Fontenay
+description: ''
+gutenberg_issued: '2022-06-26'
+identifiers:
+  gutenberg: '68409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- GITenberg
+title: The Martian Shore
+url: http://www.gutenberg.org/ebooks/68409
